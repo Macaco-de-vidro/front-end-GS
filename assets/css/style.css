@@ -143,3 +143,14 @@ input {
         max-height: 400px;
     }
 }
+
+div .box{
+    height: 470px;
+    width: 600px;
+    display: inline-block;
+}
+
+.secao6img {
+    height: 500px;
+    width: 700px;
+}
