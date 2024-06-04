@@ -118,15 +118,6 @@ img {
     margin: 0 auto;
 }
 
-form {
-    text-align: center;
-}
-
-input {
-    border-radius: 5px;
-    margin: 7px;
-}
-
 .btn-env {
     padding: 5px 10px;
     background-color: rgba(0, 255, 34, 0.432);
