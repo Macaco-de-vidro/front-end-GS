@@ -103,6 +103,10 @@ footer {
     margin-top: auto;
 }
 
+.imagens {
+    height: 200px;
+    width: 200px;
+}   
 img {
     max-height: auto;
     max-width: 800px;
@@ -112,6 +116,15 @@ img {
     left: 0;
     right: 0;
     margin: 0 auto;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    border-radius: 5px;
+    margin: 7px;
 }
 
 .btn-env {
@@ -129,4 +142,10 @@ img {
         max-width: 400px;
         max-height: 400px;
     }
+}
+
+div .box{
+    height: 470px;
+    width: 600px;
+    display: inline-block;
 }
